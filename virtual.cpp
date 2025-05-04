@@ -3,7 +3,7 @@ using namespace std;
 class base
 {
 public:
-void fun()
+virtual void fun()
 {
 cout<<"this is a base class"<<endl;
 }
